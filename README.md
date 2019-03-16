@@ -1,2 +1,4 @@
 # RGB-Game
-Select the colour among the lot by their RGB values.
+Select the colour from the lot by their RGB values. 
+*Try Your Luck*
+
